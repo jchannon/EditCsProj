@@ -2,6 +2,10 @@
 
 This tool allow you to add and update information inside a csproj file.
 
+## .Net Core 2.1 Global Tool
+
+You will need to add `<PackAsTool>true</PackAsTool>` to the csproj and have the latest 2.1 SDK installed.  
+
 ### Usage
 
 
