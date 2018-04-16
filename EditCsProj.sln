@@ -1,0 +1,17 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditCsProj", "src\EditCsProj\EditCsProj.csproj", "{635DAF89-C119-462A-8650-39C1983D4967}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A0125604-7B6C-42C6-8ED9-D5BF1C3B2DA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{635DAF89-C119-462A-8650-39C1983D4967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635DAF89-C119-462A-8650-39C1983D4967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{635DAF89-C119-462A-8650-39C1983D4967} = {A0125604-7B6C-42C6-8ED9-D5BF1C3B2DA4}
+	EndGlobalSection
+EndGlobal

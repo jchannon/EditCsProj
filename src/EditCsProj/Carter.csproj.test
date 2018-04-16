@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <VersionPrefix>3.5.0</VersionPrefix>
+    <Authors>Jonathan Channon</Authors>
+    <Description>Carter is a library that allows Nancy-esque routing for use with ASP.Net Core.</Description>
+    <PackageTags>asp.net core;nancy;.net core;routing;carter</PackageTags>
+    <PackageProjectUrl>https://github.com/CarterCommunity/Carter</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/CarterCommunity/Carter/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageIconUrl>https://github.com/CarterCommunity/Media/raw/master/carterlogo.png</PackageIconUrl>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="9.1.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Extensions" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Routing" Version="2.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyModel" Version="2.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+    <PackageReference Include="System.ValueTuple" Version="4.4.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.0.0" />
+  </ItemGroup>
+</Project>
