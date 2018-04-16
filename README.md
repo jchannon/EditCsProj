@@ -1,4 +1,4 @@
-# Edit CsProj
+# EditCsProj
 
 This tool allow you to add and update information inside a csproj file.
 
@@ -19,7 +19,7 @@ This will update an existing attribute. In this example we tell it to search for
 
 #### Updating element
 
-This will update an exisgint element.
+This will update an existing element.
 
 `editcsproj -f Foo.csproj updateelement Version 9.1.2`
 
